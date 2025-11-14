@@ -1,2 +1,4 @@
 dataset,link,query
 ACM Digital Library,https://dl.acm.org/search/advanced,("supervised fine-tuning" OR "SFT") AND ("language model" OR "LLM" OR "large language model") AND ("Portuguese" OR "pt-BR" OR "Brazilian Portuguese" OR "Portuguese language" OR "Portuguese NLP")
+IEEE Xplore,https://ieeexplore.ieee.org/search/advanced/command,("supervised fine-tuning" OR "SFT") AND ("language model" OR "LLM" OR "large language model") AND ("Portuguese" OR "pt-BR" OR "Brazilian Portuguese" OR "Portuguese language" OR "Portuguese NLP")
+IEEE Xplore,https://ieeexplore.ieee.org/search/advanced/command,(portuguese Fine tuning)
