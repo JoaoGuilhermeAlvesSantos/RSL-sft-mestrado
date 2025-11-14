@@ -26,7 +26,7 @@ plt.xlabel('Dataset', fontsize=11)
 plt.ylabel('Literature Count', fontsize=11)
 plt.title('Dataset X Literature Count (Before Deduplication)', fontsize=13)
 
-plt.ylim(0, 250)  # <<----- Aqui está o limite solicitado
+plt.ylim(0, 100)  # <<----- Aqui está o limite solicitado
 
 plt.grid(axis='y', linestyle='--', alpha=0.4)
 plt.xticks(rotation=30, ha='right')
