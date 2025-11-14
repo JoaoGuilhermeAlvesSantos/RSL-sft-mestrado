@@ -23,8 +23,8 @@ bars = plt.bar(
 )
 
 plt.xlabel('Dataset', fontsize=11)
-plt.ylabel('Count', fontsize=11)
-plt.title('Dataset X Count (Before Deduplication)', fontsize=13)
+plt.ylabel('Literature Count', fontsize=11)
+plt.title('Dataset X Literature Count (Before Deduplication)', fontsize=13)
 
 plt.ylim(0, 250)  # <<----- Aqui está o limite solicitado
 
