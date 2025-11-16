@@ -1,7 +1,8 @@
 import requests
 import feedparser
 
-query = 'all:"Fine Tun*" AND all:"Language model" AND all:"Portuguese"'
+query = 'all:"Fine Tun*" AND all:"Large language models" AND all:"portuguese" AND all:"dataset"'
+# query = 'all:"Fine Tun*" AND all:"Language model" AND all:"Portuguese"'
 base_url = "https://export.arxiv.org/api/query"
 
 # Busca até 500 resultados
